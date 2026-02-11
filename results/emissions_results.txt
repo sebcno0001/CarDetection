@@ -1,0 +1,21 @@
+============================================================
+WYNIKI EMISJI CO2 - YOLO CAR DETECTION
+============================================================
+Data i czas: 2025-11-03 23:06:02
+Projekt: yolo_car_detection_no_augment
+
+EMISJA CO2:
+• Całkowita emisja: 0.891171 kg
+• Całkowita emisja: 891.17 g
+
+KONFIGURACJA SPRZĘTU:
+• Urządzenie: cuda
+• GPU: NVIDIA GeForce RTX 2080 SUPER
+
+PARAMETRY TRENINGU:
+• Model: YOLOv8n
+• Epoki: 100 (early stopping możliwe)
+• Batch size: 8
+• Dataset: COCO cars subset
+• Augmentacja: disabled
+============================================================
