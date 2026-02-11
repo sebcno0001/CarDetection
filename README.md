@@ -11,9 +11,6 @@ Projekt wykorzystuje modele YOLO (You Only Look Once) do detekcji samochodów na
 
 Dodatkowo projekt analizuje emisję CO2 generowaną podczas treningu modeli przy użyciu biblioteki **CodeCarbon**.
 
-### Schemat Aplikacji
-
-![Schemat Aplikacji](results/schemat_aplikacji_flowchart_poprawiony.png)
 
 ## 🎯 Funkcjonalności
 
@@ -179,3 +176,4 @@ Projekt stworzony w ramach analizy wydajności modeli YOLO i ich wpływu na śro
 1. Pobrać dataset COCO (automatycznie przez kod)
 2. Wytrenować modele (czas ~1-4h w zależności od sprzętu)
 3. Uruchomić komórki analizy w notebooku
+
