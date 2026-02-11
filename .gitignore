@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# YOLO Models (large files - regenerate as needed)
+*.pt
+*.torchscript
+*.onnx
+*.engine
+*.tflite
+
+# Training runs and results
+runs/
+car_detection/
+car_detection2/
+car_detection11n/
+no_aug/
+
+# Datasets (too large for git)
+car_dataset_yolo/
+yolo_dataset/
+annotations/
+*.mp4
+*.avi
+
+# CodeCarbon
+*.csv
+
+# Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
